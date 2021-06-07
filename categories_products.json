@@ -1,27 +1,27 @@
 {
     "Categories": [
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner1.jpg",
             "Name": "BAHÇE OTURMA GRUPLARI"
         },
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner2.jpg",
             "Name": "BANYO"
         },
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner3.jpg",
             "Name": "EL ALETLERİ"
         },
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner4.jpg",
             "Name": "MAKİNE & UÇLARI"
         },
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner5.jpg",
             "Name": "AYDINLATMA & ELEKTRO"
         },
         {
-            "BannerUrl": "",
+            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner6.jpg",
             "Name": "DEKORASYON & EV GEREÇLERİ"
         }
     ],
@@ -142,7 +142,7 @@
             "Name": "Keter Technician Box 18.9\" Takım Çantası",
             "BrandName": "Keter",
             "Category": "EL ALETLERİ",
-            "ImageUrl": "https: //raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri3.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri3.jpg",
             "Price": "349",
             "Detail": "18.9''\nMetal kilit,\nPortatif organizerli,\nBölmeli,\nKapakta el aleti gözlü,\nElastik iç astarlı,\nRenk:Siyah-Kırmızı\nÖlçüler: 48 x 17,8 x 38 cm\nAksesuarlar fiyata dahil değildir."
         },
