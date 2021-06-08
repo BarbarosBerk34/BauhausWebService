@@ -1,318 +1,326 @@
-{
-    "Categories": [
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner1.jpg",
-            "Name": "BAHÇE OTURMA GRUPLARI"
-        },
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner2.jpg",
-            "Name": "BANYO"
-        },
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner3.jpg",
-            "Name": "EL ALETLERİ"
-        },
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner4.jpg",
-            "Name": "MAKİNE & UÇLARI"
-        },
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner5.jpg",
-            "Name": "AYDINLATMA & ELEKTRO"
-        },
-        {
-            "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner6.jpg",
-            "Name": "DEKORASYON & EV GEREÇLERİ"
-        }
-    ],
-    "Products": [
-        {
-            "Name": "Sunfun Beyaz Bahçe Oturma Grubu",
-            "BrandName": "Sunfun",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce1.jpg",
-            "Price": "2390",
-            "Detail": "Turkuaz ve beyaz rengi ve yumuşak hatlı tasarımıyla terasınızda, bahçenizde konforu ve ferahlığı yansıtacak bir takım: Sunfun Beyaz Bahçe Oturma Grubu\nGüzel havaların keyfini dostlarınızla birlikte çıkarırken sizi ağırlayacak; kaliteli bir ürün\nGüneş ışınları ve sert hava koşullarından etkilenmeyen bu seti, kolay ve pratik temizlenmesiyle de severek kullanacaksınız\nMalzeme: Metal ayaklı, HDPE plastik\nTurkuaz minderler\nAdet ve Ölçüler:\n1 adet 2'li koltuk 118x65x76 cm\n2 adet tekli koltuk 60x65x76 cm\n1 adet sehpa 98x48x39 cm\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir"
-        },
-        {
-            "Name": "Keter Monaco Oturma Grubu",
-            "BrandName": "Keter",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce2.jpg",
-            "Price": "2490",
-            "Detail": "Beyaz rengi ve şık tasarımıyla terasınızda, bahçenizde konforu ve ferahlığı yansıtacak bir takım: Keter Monaco Oturma Grubu\nGüzel havaların keyfini dostlarınızla birlikte çıkarırken sizi ağırlayacak kaliteli bir ürün.\nGüneş ışınları ve sert hava koşullarından etkilenmeyen bu seti, kolay ve pratik temizlenmesiyle de severek kullanacaksınız.\nMalzeme: Rattan görünümlü plastik\nAdet ve Ölçüler:\n1 adet 2'li koltuk 129x67x77 cm\n2 adet tekli koltuk 65x62x77 cm\n1 adet sehpa 92x59x43 cm\n\nÜrüne minderler dahildir.\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
-        },
-        {
-            "Name": "Sunfun Metal Masa ve Sandalye Seti",
-            "BrandName": "Sunfun",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce3.jpg",
-            "Price": "1490",
-            "Detail": "Sunfun Metal Masa ve Sandalye Seti sağlam yapısı ile yıllarca kullanabileceğiniz eşsiz bir takım.\n\nSağlam metal malzeme.\nHava değişimlerinden etkilenmez, UV ışınlarına ve sert hava koşullarına karşı oldukça dayanıklı.\nYumuşak bir deterjan ile temizlenebilir.Kimyasal içerikli detarjanlar kullanılmamalıdır.\n1 adet masa 86x86x70 cm\n4 adet sandalye 63x57x91 cm\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
-        },
-        {
-            "Name": "Sunfun Gazebo Parti Çadırı Kahverengi",
-            "BrandName": "Sunfun",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce4.jpg",
-            "Price": "1190",
-            "Detail": "Konuklarınızı neşeyle ağırlayacağınız bir partiye hazır mısınız?\nAltında istediğiniz gibi vakit geçirebileceğiniz, güneşin zararlı etkilerinden uzak günün yorgunluğunu atabileceğiniz Sunfun Gazebo Parti Çadırı bahçenize çok yakışacak!\nDekoratif ve sağlam yapısı, 2 cephede yer alan sabit raflarıyla konuklarınızı rahatça ağırlayabilecek, yaz boyu açık havanın tadını çıkarabileceksiniz.\nÖrtü Malzeme: Polyester\nGenişlik: 150 cm\nUzunluk: 240 cm\nÜrün, güneşten korunma için uygundur; yağmur ve kötü hava şartlarına karşı koruma sağlamaz.\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
-        },
-        {
-            "Name": "Grillstar Texas II Kömürlü Mangal",
-            "BrandName": "Grillstar",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce5.jpg",
-            "Price": "1290",
-            "Detail": "Izgara Yüzeyi: 80*46 cm\nYüksek kaliteli ve elektrostatik toz boyalı çelik\nSağlam duruş ve geniş ızgara alanı\nTekerlekli\n2 adet ızgara (42*47 cm)\nRenk: Siyah\nÜrün Ölçüleri: 94*101*57 cm\nAğırlık: 19 kg"
-        },
-        {
-            "Name": "Sunfun Kamuflaj Katlanır Kamp Koltuğu",
-            "BrandName": "Sunfun",
-            "Category": "BAHÇE OTURMA GRUPLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce6.jpg",
-            "Price": "70",
-            "Detail": "Evde, kampta, balığa çıktığınızda veya yaz mevsiminde sahilde rahatlıkla kullanabileceğiniz pratik bir koltuk.\nKolçağında yer alan tek bardak tutucu gözüyle keyfe keyif katan tasarıma sahip olan ürün sağlam dikişli gövdesi ve paslanmaya, darbeye dayanıklı boyasıyla uzun ömürlü\nKatlanır yapısı ve özel taşıma çantası sayesinde istediğiniz yere kolayca taşıyabilirsiniz.\nÖlçüler: 80x80x51 cm"
-        },
-        {
-            "Name": "Primanova Lenox 5 Parça Banyo Seti",
-            "BrandName": "Primanova",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo1.jpg",
-            "Price": "249",
-            "Detail": "Parlak ve krom kaplamalı plastik kombinasyonu.\nSet içinde sıvı sabunluk,sabunluk,diş fırçalık, tuvalet fırçası ve kapaklı kovadan oluşmaktadır.\nRenk: Siyah, beyaz, gri ve krem"
-        },
-        {
-            "Name": "Lento Siyah Banyo Bataryası",
-            "BrandName": "Adell",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo2.jpg",
-            "Price": "429",
-            "Detail": "Ürün standartı tse en 817 (tek kumandalı)\nGövde malzemesi: pirinç\nPerlatör tipi: M24X1 dış dişli\nDebi miktarı: 7,5-9 Lt./ Dk. (3 Bar)\nİşlem Tipi Seramik disk kartuş Ø 35 mm bacağı\nDuş bağlantısı 1/2''\nDuş yönlendirici tipi otomatik 1/2'\nÇıkış ucu uzunluk: 168 mm\nToplam yükseklik: 100 mm\nDuvar bağlantı eksen ölçüsü: 150 ± 1 mm\nÖnerilen çalışma sıcaklığı: 60 °C\nÖnerilen çalışma basıncı: 3 bar\nÜretici garantisi 10 yıl"
-        },
-        {
-            "Name": "Camargue Touch 3F Rain Duş Seti",
-            "BrandName": "Camargue",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo3.jpg",
-            "Price": "699",
-            "Detail": "Şık tasarımların ve kaliteli ürünlerin güvencesi Camargue’dan eksiksiz bir duş seti.\nKusursuz su akışı ile banyo keyfini size armağan edecek.\nKrom kaplama.\nYağmurlama sistemli tepe duşu."
-        },
-        {
-            "Name": "15 Litre Slim Pedallı Çöp Kovası",
-            "BrandName": "Dünya Plastik",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo4.jpg",
-            "Price": "50",
-            "Detail": "Dünya Plastik 15 lt Slim Pedallı Çöp Kovası\nHer evin en önemli ihtiyaçları arasında yer alan çöp kovalarının, çok sık kullanılmaları sebebiyle pratik, çöp depolamak işini güzel ve hijyenik kılmak amacıyla ise şık ve kaliteli olmaları gerekir. Dünya Plastik 15 lt Slim Pedallı Çöp Kovası, şıklığı, kalitesi ve pratikliği ile bir çöp kovasından aradığınız her özelliği bünyesinde barındırır.\n15 lt Slim Pedallı Çöp Kovası Neden Tercih Edilebilir?\nPedallı çöp kovalarını elleriniz doluyken de çok rahat kullanabilirsiniz. Direkt pedala ayağınızla basarak kapağın açılmasını sağlayabilirsiniz. Bu kolaylık sizi zaman kaybından kurtarır.\nAynı şekilde elleriniz kirliyse yine kapağa temas etmeden çöp kovasını açabilirsiniz. Kirli ellerinizle çöp kovasını kirletmemiş, kendinize ekstra bir iş daha çıkartmamış olursunuz.\nÇöp torbasını atmak amacıyla kapağı ayağınızla kaldırdığınızda iki eliniz de boş olacağı için bu defa da ellerinizin kirlenmesi, çöpe bulaşması engellenmiş olur.\n15 ml kapasitesindeki bir çöp kovası orta boy çöp kovaları arasında sayılabilir. Genel ihtiyaçlar açısından en çok kullanılan boylardandır.\nSlim model kovalar yuvarlatılmış köşeleri, ince uzun, zarif tasarımlarıyla özellikle modern mutfakların tercihidir.\nKolay temizlenebilirler\nDünya Plastik 15 lt Slim Pedallı Çöp Kovası Yapısal Özellikleri:\nYüksekliği: 40 cm, genişliği: 22,5 cm, derinliği: 31 cm’dir.\nZarif ve ergonomik tasarımı nedeniyle hantal görünmez, mutfakta az yer kaplar.\nKötü bir plastik kokusu ile karşılaşmazsınız. Hammaddesi birinci sınıftır.\nKovanın içerisinde poşet sıkıştırma aparatları mevcuttur. Bu, poşetlerin kaymasını, çöplerin bulaşmasını engeller, düzenli ve hijyenik bir görünüm sağlar.\nZor ve sevilmeyen bir işi yerine getiriyor da olsa çöp kutuları en büyük yardımcılarımızdandır. Çöp kutusu seçerken özen göstermemek, ihtiyaçları düşünmeden davranmak ya da göz zevkinizi bozacak seçeneklere yönelmek sizi uzun vadede üzecektir. Çöp kutunuzun seçimini özenle yapmalı hatta bu şık ve kullanışlı çöp kutusuna bir an önce sahip olmalısınız."
-        },
-        {
-            "Name": "Bambu-Keten Saplı Banyo Süngeri",
-            "BrandName": "Balmy",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo5.jpg",
-            "Price": "22",
-            "Detail": "%100 doğal bambu lifinden üretilen canlandırıcı etkili & tahriş karşıtı özellikleri ile içi süngerli saplı banyo süngeri\nYumuşak dokusuyla cildi tahriş etmeden temizler ve vücuda zindelik verir.\nVücudun sırt bölgesi için tasarlanmış olup sapı sayesinde kolaylıkla kullanılabilir.\nHassas cilt tipleri için uygundur.\nAsarak kurutulur.\nÜretim yeri: Türkiye\nÜrün ölçüleri (ambalajsız): En:11cm Boy:48cm Kalınlık:6cm"
-        },
-        {
-            "Name": "Nelly Sıvı Sabunluk Siyah",
-            "BrandName": "Primanova",
-            "Category": "BANYO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo6.jpg",
-            "Price": "45",
-            "Detail": "Plastik malzemeden üretilmiştir\nÇap: 9 cm\nYükseklik: 20 cm"
-        },
-        {
-            "Name": "Wisent 56 Parça El Aleti Seti",
-            "BrandName": "Wisent",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri1.jpg",
-            "Price": "699",
-            "Detail": "Zorlu tamir, tadilat işlerinizde ihtiyaç duyacağınız tüm aletler bu setde...\nKaliteli malzemesi ile uzun yıllar kullanabilirsiniz.\nEl aleti seti 56 Parçadan oluşmaktadır.\nSu geçirmez, hafif çantası ile kolaylıkla taşınabilir,yer kaplamaz.\nSet İçeriği:\n6 adet 2 ağız anahtar,\nPense, yankeski, kargaburun,\nBits seti,\nAllen anahtarlar,\nDüz ve yıldız tornavidalar,\nSu terazisi ve el feneri,\nTaşıma çantası\nÖlçüleri: 23x7x34cm\nAğırlık: 3 kg"
-        },
-        {
-            "Name": "Schmitt 11 Parça Oyma Seti",
-            "BrandName": "Schmitt",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri2.jpg",
-            "Price": "1250",
-            "Detail": "En iyi sonuçlar için sağlam çelik uçlar\nSap malzemesi ahşap,\nBıçak:Özel çelik malzemeden üretilmiştir.\n11 Parça\n- 4 x Oyma Keski düz gravür 8 (6 mm)/gravür 8 (8 mm)/gravür 39 (6 mm)/gravür 11 (2 mm),\n1 x Oyma Bıçağı eğik uçlu,\n1 x Oyma Bıçağı Dar uçlu,\n1 x Oyma Bıçağı Kavisli,\n1 x Oyma Bıçağı Düz Uçlu ,\n1 x Bileme Taşı 80 x 30 mm K 180/400"
-        },
-        {
-            "Name": "Keter Technician Box 18.9\" Takım Çantası",
-            "BrandName": "Keter",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri3.jpg",
-            "Price": "349",
-            "Detail": "18.9''\nMetal kilit,\nPortatif organizerli,\nBölmeli,\nKapakta el aleti gözlü,\nElastik iç astarlı,\nRenk:Siyah-Kırmızı\nÖlçüler: 48 x 17,8 x 38 cm\nAksesuarlar fiyata dahil değildir."
-        },
-        {
-            "Name": "Pürmüz Profesyonel 1300C - 11087",
-            "BrandName": "Worldforce",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri4.jpg",
-            "Price": "179",
-            "Detail": "Sıcaklık Derecesi: 1300 C\nKaplama: Aluminyum Ve Plastik\nAyarlanabilir Alevli\nPiezo Ateşlemeli\nAnti Flare System\nÜrün Ölçüleri(EnxBoyxYükseklik):8x13,5x18,5cm"
-        },
-        {
-            "Name": "Lokma Takımı 26 Parça",
-            "BrandName": "Forsage",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri5.jpg",
-            "Price": "759",
-            "Detail": "Lokma Takımı\n26 Parça\nCr-V\n1/2'' - 6 Köşe\n8-32mm Lokma Aralığı\nMetal Kutu\nT-Kol Ve Uzatmalar"
-        },
-        {
-            "Name": "Kontrol Kalemi 6-24V",
-            "BrandName": "Forsage",
-            "Category": "EL ALETLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri6.jpg",
-            "Price": "33",
-            "Detail": "Kontrol Kalemi\nIşık Göstergeli Prinç Gövde\n6-24V\n850mm Kıskaçlı Kablo\nBlisterde"
-        },
-        {
-            "Name": "Alpha Tools 3 Parça Makine Seti",
-            "BrandName": "Alpha Tools",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine1.jpg",
-            "Price": "599",
-            "Detail": "Alpha Tools’un çok fonksiyonlu 3 aleti birarada..\nDelme,vidalama ve taşlama işlerinizi kısa zamanda,yüksek konfor ile tamamlayabilirsiniz.Kaliteli malzemesiyle ürünleri yıllarca kullanabilirsiniz.\nSb 450 L/R-S Darbeli Matkap:\nGüç:Max 450 W\nRölanti Devir:0-3000 Dev/Dk.\nGerilim:230 V-50 Hz\nAğırlık:1,6 Kg\nDelme Gücü:\nSes basınç seviyesi:85,0 dB(A) -Sapma K:3 dB\nSes güç seviyesi:96,0 dB(A) -Sapma K:3 dB\nBeton:13 mm\nÇelik:10 mm\nAhşap:25 mm\nCD 1081 Li-2 Akülü Vidalama:\nLed Işıklı,\nSağ sol dönüş\nTork ayarlı,\nVoltaj: DC 10,8 V\nDevir sayısı:0-520 dev/dak.\nMandren aralığı:10 mm\nŞarj süresi:3-5 saat\nTork ayarı:19+1\nBatarya tipi:10,8 V Lion 1,3 Ah pil\nSes basınç seviyesi:79,0 dB(A) -Sapma K:3 dB\nSes güç seviyesi:90,0 dB(A) -Sapma K:3 dB\nWs 115-600-S Avuç Taşlama:\nGüç:600 W max.\nGerilim:230 V-50 Hz\nRölanti Deviri:11000 Dev/Dk\nMax.Taş Çapı:115 mm\nBağlantı vida dişi:M14\nAğırlık:1,7 Kg\n17 Parça aksesuar seti dahildir."
-        },
-        {
-            "Name": "Einhell TE-CD 18/2 li Kit 18V Akülü Vidalama",
-            "BrandName": "Einhell",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine2.jpg",
-            "Price": "899",
-            "Detail": "Einhell TE-CD 18/2 Li Kit Akülü Vidalama Power X-Change ailesinin çift akülü güçlü, sağlam ve ergonomik bir ürünüdür. 2 kademe hız seçimi ile vidalamanın yanı sıra delme işlemlerini de kolayca yapılabilirsiniz. Sahip olduğu metal dişli sistemi ile 44 Nm'luk yüksek tork gücüne ulaşabilir ve en zor işlerin bile üstesinden gelebilirsiniz.\nBeraberinde gelen hızlı şarj cihazı ve 2 adet aküsünü Power X-Change ailesinin diğer makine ve bahçe grubu ürünleri ile birlikte kullanabilir, ihtiyaç duyduğunuz sonraki aletleri ailenin solo ürünlerden (akü ve şarj cihazı olmaksızın) seçebilir, dilerseniz daha yüksek kapasiteli ilave akü ve şarj cihazlarını ayrı ayrı da satın alarak kullanabilirsiniz.\nTeknik Özellikler:\nPower X-Change® akü sistemi üyesi\nLi-ion uzun ömürlü akü\n2 vites seçeneği (delme ve vidalama)\nYüksek tork için güçlü motor ve metal dişli sistemi\nOtomatik mil kilidi\nHızlı duruş\nHassas elektronik hız ayarı\nErgonomik soft yüzey kaplaması\nLed aydınlatma\nPratik bel askı klipsi\n2 adet 1.5 Ah akü ve hızlı şarj cihazı dahildir.\nAkü:18 V | 1500 mah | Li-ion\nŞarj süresi:30 dk\nVites Sayısı:2\nBoşta devir hızı(Vites 1) 0-350 d/dk\nBoşta devir hızı(Vites 2) 0-1250 d/dk\nMax. Tork Gücü:44 Nm\nTork ayarı:21\nMandren:10 mm"
-        },
-        {
-            "Name": "Black&Decker BEH710S 710W 13 Mm Darbeli Matkap",
-            "BrandName": "Black&Decker",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine3.jpg",
-            "Price": "515",
-            "Detail": "40 Parça Aksesuar Hediye!\nAnahtarsız mandren ile hızlı ve kolay uç değiştirme,\n710 W güçlü motoru ile yüksek çalışma verimliliği,\nKesintisiz çalışma düğmesi ile tek elle kolay kullanım,\n40 parça aksesuar seti\nKarıştırıcı aparatı ile çok yönlü kullanım,\nKauçuk kaplı tutma kolu ve ergonomik dizayn ile yüksek kontrol,\nElektronik hız ayarı ile ileri/geri dönüş özelliği.\nTeknik Özellikler:\nGüç:710W\nDarbe Oranı:0-47.600 dar/dak\nYüksüz Hızı:0-2.800 dev/dak\nMandren Kapasitesi:13mm\nAğırlık 3.2 Kg\nMax. Delme Kapasitesi:\nAhşap:25 mm\nMetal:13 mm\nBeton:13 mm"
-        },
-        {
-            "Name": "Bosch GSB550 550W Profesyonel Darbeli Matkap",
-            "BrandName": "Bosch",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine4.jpg",
-            "Price": "449",
-            "Detail": "Türü:Darbeli\nGüç (W):550 W\nMandren Ölçüsü (mm):13 mm\nMetal Demle Kapasitesi (mm):10 mm\nMandren Tipi:Anahtarlı\nAhşap Delme Kapasitesi (mm):25 mm\nBeton Delme Kapasitesi (mm):13 mm"
-        },
-        {
-            "Name": "Pressito Solo Hibrit Kompresör",
-            "BrandName": "Einhell",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine5.jpg",
-            "Price": "775",
-            "Detail": "Power X-Change akü sistemi üyesi\nHibrid fonksiyonu: Akü ile ya da elektrikle kullanılabilir\nAraç, bisiklet vb. için yüksek hava basıncı pompası\nŞişme yataklar için düşük hava basıncı pompası\nHava yataklarının söndürmek için düşük basınç hava emiş aygıtı\nManuel dijital basınç göstergesi ile kolay kullanım\n11 bar'a kadar ayarlanabilir basınç ayarı\nAyarlanan basınca yaklaştığında otomatik kapanma fonksiyonu\n3 parça şişirme adaptörü için saklama bölmesi\nAkü ve şarj cihazı dahil değildir (ayrı olarak satın alınabilir) • Mains supply 220-240 V | 50 Hz\nEmiş kapasitesi 21 L/min\n0 barda çıkış gücü 16 L/min\n4 barda çıkış gücü 10 L/min\n7 barda çıkış gücü 8 L/min\nMaksimum çalışma basıncı 11 bar\nHortum boyu 710 mm"
-        },
-        {
-            "Name": "Einhell TC-RO1155E Dik Freze",
-            "BrandName": "Einhell",
-            "Category": "MAKİNE & UÇLARI",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine6.jpg",
-            "Price": "599",
-            "Detail": "Elektronik hız ayarı\n3 kademeli derinlik ayar skalası\nDöner başlıklı hassas derinlik ayarı\nØ6 ve Ø8 mm uç girişi\nParalellik mesnedi, rota, kopya kolu\nKolay uç değişimi için mil kilidi\nÇalışma yüzeyi için plastik koruma altlık\nTeknik Özellikler:\nGiriş voltajı: 230 V | 50 Hz\nGüç: 1100 W\nBoşta devir hızı: 11000-30000 d/dk\nStrok yüksekliği: 55 mm\nUç Girişi: 6 ve 8 mm\nMax. Oluk çapı: 30 mm"
-        },
-        {
-            "Name": "Poza 8'Li 8XE27 Sıralı Eskitme Avize",
-            "BrandName": "Lucea",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma1.jpg",
-            "Price": "995",
-            "Detail": "8 li avize \nE27 duy \nÜrün ölçüleri: 58x58x72 cm"
-        },
-        {
-            "Name": "Lucea Belly Küçük Boy Krom Ledli Tekli Sarkıt",
-            "BrandName": "Lucea",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma2.jpg",
-            "Price": "595",
-            "Detail": "Küçük boy ledli Sarkıt \nÜrün ölçüleri: 23x37x90 cm \nKrom kaplama \nEnerji Tasarruflu \nLed / 1 x 38w \n3000 Kelvin"
-        },
-        {
-            "Name": "Eglo Barnham Led Spot Serisi 4'lü Spot",
-            "BrandName": "Eglo",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma3.jpg",
-            "Price": "1045",
-            "Detail": "Ezber bozan tasarımı olan bakır renkli bu şık 4'lü spot döndürülebilir başlıklarıyla kullanıldığı alanın istediğiniz bölümünün ışıkla vurgulanmasını sağlar, görsel bir ayrım oluşturur. LED ampulü ile doğal, tasarruflu ve çevre dostu aydınlatma sağlar. Oluşturduğunuz iç dekorasyonunuzu tamamlar. Çarpıcı ölçüde dikkat çekici efektlerle ortama daha modern bir görünüm verir.\nRenk: Bakır - Siyah\nÇalışma Gücü: 4 x 3,3 W\nDuy Sayısı: 4"
-        },
-        {
-            "Name": "Dubrovnik 1x100W Aplik Yeşil",
-            "BrandName": "Philips",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma4.jpg",
-            "Price": "199",
-            "Detail": "Güç: 1x100 W\nGerilim : 220-240V\nÜrün Ölçüleri: 243 X 173 X 395 mm\n1 adet E27 ampul ile kullanılır.(Ampul dahil değildir.)\nGövde Rengi : Yeşil"
-        },
-        {
-            "Name": "Helsinki Serisi Babaüstü",
-            "BrandName": "Eglo",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma5.jpg",
-            "Price": "167",
-            "Detail": "E27 Duy\nMax. Watt: 1x15W\nAna materyal: Paslanmaz çelik\nCam/şapka materyali: Plastik\nCam/şapka rengi: Beyaz\nIP44\nYükseklik: 450 mm\nÇap: 75 mm\nTaban çap: 115 mm\nAğırlık: 0,913 kg"
-        },
-        {
-            "Name": "Rı-Tech 6'lı Şok Korumalı Usb Anahtarlı Grup Priz",
-            "BrandName": "Mutlusan",
-            "Category": "AYDINLATMA & ELEKTRO",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma6.jpg",
-            "Price": "100",
-            "Detail": "230 V\n16 A\n3500 W\n50 -60 Hz\nOutput of 5V 2,4 A. USB"
-        },
-        {
-            "Name": "Deluxe Alüminyum Çamaşır Kurutmalık",
-            "BrandName": "Mihrece",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon1.jpg",
-            "Price": "109",
-            "Detail": "20 metre çamaşır asma kapasitesi\nÜrün ölçüleri: 105x55x55\nYüzde yüz alüminyum gövde\nÖzel tasarlanmış çorap asma aparatı\nDış mekanlar için özel tasarım\n5 yıl garanti"
-        },
-        {
-            "Name": "Emboss Hasır Bej Duvar Kağıdı",
-            "BrandName": "Halley",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon2.jpg",
-            "Price": "43",
-            "Detail": "Nefes alabilir özelliğe sahiptir, koku yapmaz\nHafif nemli süngerle temizliği yapılmalıdır\nHijyeniktir\nİnsan sağlığı açısından herhangi bir sorun teşkil etmez sağlıklı ve doğaldır\nKağıt yapısı kabartmalı olduğu için duvarın tam şeklini alır\nBozuk, eğik, tırtıklı duvarlarda rahatlıkla kullanılabilir\nÜst üste 0,2 cm bindirilerek uygulanır\nKağıt ölçüleri 52x1000 cm (5,20m²)’dir\nUygulama Öncesi:\nÇoklu alımlarda ürünlerin seri ve baskı numaraları kontrol edilmelidir\nUygulanacak duvarlar temiz, kuru, sert ve düz olmalıdır\nSeramik, mermer, saten ve yağlı boyalı yüzeylerde mutlaka dönüşüm astarı talimatlarına göre uygulanmalıdır\nHesaplama:\nUygulanacak olan duvarların yüksekliğine ve desen takibine göre farklılık göstermektedir\nYüksekliği 3 metreyi aşmayan duvarlarda 1 rulo kağıttan desen takibiyle birlikte genellikle yan yana 3 boy olarak hesaplanmalıdır Bu da her 1,5 metre için 1 rulo gereksinimi sunmaktadır"
-        },
-        {
-            "Name": "Rustik Kutu No:1",
-            "BrandName": "Evkur",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon3.jpg",
-            "Price": "41",
-            "Detail": "Ham MDF kutu\nÜrün ölçüleri: 22,5x10,5x16 cm\n1 Kapaklı\n8 mm MDF kullanılmıştır.\nAkrilik boyalarla boyanabilir."
-        },
-        {
-            "Name": "Pvc Jaluzi 25mm 80x160cm Antrasit",
-            "BrandName": "Linadora",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon4.jpg",
-            "Price": "155",
-            "Detail": "25 mm. PVC Jaluzi\nTüm montaj aksamları paket içerisindedir.\nÜrün ölçüleri: 80x160 cm."
-        },
-        {
-            "Name": "Güneş Ayna No:2",
-            "BrandName": "Evkur",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon5.jpg",
-            "Price": "24",
-            "Detail": "Ham MDF çerçeve\nÜrün ölçüleri: 35x35x0,8 cm\n8 mm MDF kullanılmıştır.\nAkrilik boyalarla boyanabilir."
-        },
-        {
-            "Name": "Happy Stripe Lacivert Kırlent",
-            "BrandName": "Elegance",
-            "Category": "DEKORASYON & EV GEREÇLERİ",
-            "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon5.jpg",
-            "Price": "35",
-            "Detail": "Ürün ölçüleri: 45x45cm\nFermuarlı ve fitillidir, yıkanabilir.\nİç malzeme silikon elyaftır, yapışmaz.\n30 derecede yıkanabilir. Ağartıcı kullanılmaz."
-        }
-    ]
-}
+[
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner1.jpg",
+        "Name": "BAHÇE OTURMA GRUPLARI",
+        "Products": [
+            {
+                "Name": "Sunfun Beyaz Bahçe Oturma Grubu",
+                "BrandName": "Sunfun",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce1.jpg",
+                "Price": "2390",
+                "Detail": "Turkuaz ve beyaz rengi ve yumuşak hatlı tasarımıyla terasınızda, bahçenizde konforu ve ferahlığı yansıtacak bir takım: Sunfun Beyaz Bahçe Oturma Grubu\nGüzel havaların keyfini dostlarınızla birlikte çıkarırken sizi ağırlayacak; kaliteli bir ürün\nGüneş ışınları ve sert hava koşullarından etkilenmeyen bu seti, kolay ve pratik temizlenmesiyle de severek kullanacaksınız\nMalzeme: Metal ayaklı, HDPE plastik\nTurkuaz minderler\nAdet ve Ölçüler:\n1 adet 2'li koltuk 118x65x76 cm\n2 adet tekli koltuk 60x65x76 cm\n1 adet sehpa 98x48x39 cm\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir"
+            },
+            {
+                "Name": "Keter Monaco Oturma Grubu",
+                "BrandName": "Keter",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce2.jpg",
+                "Price": "2490",
+                "Detail": "Beyaz rengi ve şık tasarımıyla terasınızda, bahçenizde konforu ve ferahlığı yansıtacak bir takım: Keter Monaco Oturma Grubu\nGüzel havaların keyfini dostlarınızla birlikte çıkarırken sizi ağırlayacak kaliteli bir ürün.\nGüneş ışınları ve sert hava koşullarından etkilenmeyen bu seti, kolay ve pratik temizlenmesiyle de severek kullanacaksınız.\nMalzeme: Rattan görünümlü plastik\nAdet ve Ölçüler:\n1 adet 2'li koltuk 129x67x77 cm\n2 adet tekli koltuk 65x62x77 cm\n1 adet sehpa 92x59x43 cm\n\nÜrüne minderler dahildir.\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
+            },
+            {
+                "Name": "Sunfun Metal Masa ve Sandalye Seti",
+                "BrandName": "Sunfun",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce3.jpg",
+                "Price": "1490",
+                "Detail": "Sunfun Metal Masa ve Sandalye Seti sağlam yapısı ile yıllarca kullanabileceğiniz eşsiz bir takım.\n\nSağlam metal malzeme.\nHava değişimlerinden etkilenmez, UV ışınlarına ve sert hava koşullarına karşı oldukça dayanıklı.\nYumuşak bir deterjan ile temizlenebilir.Kimyasal içerikli detarjanlar kullanılmamalıdır.\n1 adet masa 86x86x70 cm\n4 adet sandalye 63x57x91 cm\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
+            },
+            {
+                "Name": "Sunfun Gazebo Parti Çadırı Kahverengi",
+                "BrandName": "Sunfun",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce4.jpg",
+                "Price": "1190",
+                "Detail": "Konuklarınızı neşeyle ağırlayacağınız bir partiye hazır mısınız?\nAltında istediğiniz gibi vakit geçirebileceğiniz, güneşin zararlı etkilerinden uzak günün yorgunluğunu atabileceğiniz Sunfun Gazebo Parti Çadırı bahçenize çok yakışacak!\nDekoratif ve sağlam yapısı, 2 cephede yer alan sabit raflarıyla konuklarınızı rahatça ağırlayabilecek, yaz boyu açık havanın tadını çıkarabileceksiniz.\nÖrtü Malzeme: Polyester\nGenişlik: 150 cm\nUzunluk: 240 cm\nÜrün, güneşten korunma için uygundur; yağmur ve kötü hava şartlarına karşı koruma sağlamaz.\nÜrün demonte olarak teslim edilmektedir. Aksesuarlar fiyata dahil değildir."
+            },
+            {
+                "Name": "Grillstar Texas II Kömürlü Mangal",
+                "BrandName": "Grillstar",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce5.jpg",
+                "Price": "1290",
+                "Detail": "Izgara Yüzeyi: 80*46 cm\nYüksek kaliteli ve elektrostatik toz boyalı çelik\nSağlam duruş ve geniş ızgara alanı\nTekerlekli\n2 adet ızgara (42*47 cm)\nRenk: Siyah\nÜrün Ölçüleri: 94*101*57 cm\nAğırlık: 19 kg"
+            },
+            {
+                "Name": "Sunfun Kamuflaj Katlanır Kamp Koltuğu",
+                "BrandName": "Sunfun",
+                "Category": "BAHÇE OTURMA GRUPLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/bahce6.jpg",
+                "Price": "70",
+                "Detail": "Evde, kampta, balığa çıktığınızda veya yaz mevsiminde sahilde rahatlıkla kullanabileceğiniz pratik bir koltuk.\nKolçağında yer alan tek bardak tutucu gözüyle keyfe keyif katan tasarıma sahip olan ürün sağlam dikişli gövdesi ve paslanmaya, darbeye dayanıklı boyasıyla uzun ömürlü\nKatlanır yapısı ve özel taşıma çantası sayesinde istediğiniz yere kolayca taşıyabilirsiniz.\nÖlçüler: 80x80x51 cm"
+            }
+        ]
+    },
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner2.jpg",
+        "Name": "BANYO",
+        "Products": [
+            {
+                "Name": "Primanova Lenox 5 Parça Banyo Seti",
+                "BrandName": "Primanova",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo1.jpg",
+                "Price": "249",
+                "Detail": "Parlak ve krom kaplamalı plastik kombinasyonu.\nSet içinde sıvı sabunluk,sabunluk,diş fırçalık, tuvalet fırçası ve kapaklı kovadan oluşmaktadır.\nRenk: Siyah, beyaz, gri ve krem"
+            },
+            {
+                "Name": "Lento Siyah Banyo Bataryası",
+                "BrandName": "Adell",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo2.jpg",
+                "Price": "429",
+                "Detail": "Ürün standartı tse en 817 (tek kumandalı)\nGövde malzemesi: pirinç\nPerlatör tipi: M24X1 dış dişli\nDebi miktarı: 7,5-9 Lt./ Dk. (3 Bar)\nİşlem Tipi Seramik disk kartuş Ø 35 mm bacağı\nDuş bağlantısı 1/2''\nDuş yönlendirici tipi otomatik 1/2'\nÇıkış ucu uzunluk: 168 mm\nToplam yükseklik: 100 mm\nDuvar bağlantı eksen ölçüsü: 150 ± 1 mm\nÖnerilen çalışma sıcaklığı: 60 °C\nÖnerilen çalışma basıncı: 3 bar\nÜretici garantisi 10 yıl"
+            },
+            {
+                "Name": "Camargue Touch 3F Rain Duş Seti",
+                "BrandName": "Camargue",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo3.jpg",
+                "Price": "699",
+                "Detail": "Şık tasarımların ve kaliteli ürünlerin güvencesi Camargue’dan eksiksiz bir duş seti.\nKusursuz su akışı ile banyo keyfini size armağan edecek.\nKrom kaplama.\nYağmurlama sistemli tepe duşu."
+            },
+            {
+                "Name": "15 Litre Slim Pedallı Çöp Kovası",
+                "BrandName": "Dünya Plastik",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo4.jpg",
+                "Price": "50",
+                "Detail": "Dünya Plastik 15 lt Slim Pedallı Çöp Kovası\nHer evin en önemli ihtiyaçları arasında yer alan çöp kovalarının, çok sık kullanılmaları sebebiyle pratik, çöp depolamak işini güzel ve hijyenik kılmak amacıyla ise şık ve kaliteli olmaları gerekir. Dünya Plastik 15 lt Slim Pedallı Çöp Kovası, şıklığı, kalitesi ve pratikliği ile bir çöp kovasından aradığınız her özelliği bünyesinde barındırır.\n15 lt Slim Pedallı Çöp Kovası Neden Tercih Edilebilir?\nPedallı çöp kovalarını elleriniz doluyken de çok rahat kullanabilirsiniz. Direkt pedala ayağınızla basarak kapağın açılmasını sağlayabilirsiniz. Bu kolaylık sizi zaman kaybından kurtarır.\nAynı şekilde elleriniz kirliyse yine kapağa temas etmeden çöp kovasını açabilirsiniz. Kirli ellerinizle çöp kovasını kirletmemiş, kendinize ekstra bir iş daha çıkartmamış olursunuz.\nÇöp torbasını atmak amacıyla kapağı ayağınızla kaldırdığınızda iki eliniz de boş olacağı için bu defa da ellerinizin kirlenmesi, çöpe bulaşması engellenmiş olur.\n15 ml kapasitesindeki bir çöp kovası orta boy çöp kovaları arasında sayılabilir. Genel ihtiyaçlar açısından en çok kullanılan boylardandır.\nSlim model kovalar yuvarlatılmış köşeleri, ince uzun, zarif tasarımlarıyla özellikle modern mutfakların tercihidir.\nKolay temizlenebilirler\nDünya Plastik 15 lt Slim Pedallı Çöp Kovası Yapısal Özellikleri:\nYüksekliği: 40 cm, genişliği: 22,5 cm, derinliği: 31 cm’dir.\nZarif ve ergonomik tasarımı nedeniyle hantal görünmez, mutfakta az yer kaplar.\nKötü bir plastik kokusu ile karşılaşmazsınız. Hammaddesi birinci sınıftır.\nKovanın içerisinde poşet sıkıştırma aparatları mevcuttur. Bu, poşetlerin kaymasını, çöplerin bulaşmasını engeller, düzenli ve hijyenik bir görünüm sağlar.\nZor ve sevilmeyen bir işi yerine getiriyor da olsa çöp kutuları en büyük yardımcılarımızdandır. Çöp kutusu seçerken özen göstermemek, ihtiyaçları düşünmeden davranmak ya da göz zevkinizi bozacak seçeneklere yönelmek sizi uzun vadede üzecektir. Çöp kutunuzun seçimini özenle yapmalı hatta bu şık ve kullanışlı çöp kutusuna bir an önce sahip olmalısınız."
+            },
+            {
+                "Name": "Bambu-Keten Saplı Banyo Süngeri",
+                "BrandName": "Balmy",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo5.jpg",
+                "Price": "22",
+                "Detail": "%100 doğal bambu lifinden üretilen canlandırıcı etkili & tahriş karşıtı özellikleri ile içi süngerli saplı banyo süngeri\nYumuşak dokusuyla cildi tahriş etmeden temizler ve vücuda zindelik verir.\nVücudun sırt bölgesi için tasarlanmış olup sapı sayesinde kolaylıkla kullanılabilir.\nHassas cilt tipleri için uygundur.\nAsarak kurutulur.\nÜretim yeri: Türkiye\nÜrün ölçüleri (ambalajsız): En:11cm Boy:48cm Kalınlık:6cm"
+            },
+            {
+                "Name": "Nelly Sıvı Sabunluk Siyah",
+                "BrandName": "Primanova",
+                "Category": "BANYO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banyo6.jpg",
+                "Price": "45",
+                "Detail": "Plastik malzemeden üretilmiştir\nÇap: 9 cm\nYükseklik: 20 cm"
+            }
+        ]
+    },
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner3.jpg",
+        "Name": "EL ALETLERİ",
+        "Products": [
+            {
+                "Name": "Wisent 56 Parça El Aleti Seti",
+                "BrandName": "Wisent",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri1.jpg",
+                "Price": "699",
+                "Detail": "Zorlu tamir, tadilat işlerinizde ihtiyaç duyacağınız tüm aletler bu setde...\nKaliteli malzemesi ile uzun yıllar kullanabilirsiniz.\nEl aleti seti 56 Parçadan oluşmaktadır.\nSu geçirmez, hafif çantası ile kolaylıkla taşınabilir,yer kaplamaz.\nSet İçeriği:\n6 adet 2 ağız anahtar,\nPense, yankeski, kargaburun,\nBits seti,\nAllen anahtarlar,\nDüz ve yıldız tornavidalar,\nSu terazisi ve el feneri,\nTaşıma çantası\nÖlçüleri: 23x7x34cm\nAğırlık: 3 kg"
+            },
+            {
+                "Name": "Schmitt 11 Parça Oyma Seti",
+                "BrandName": "Schmitt",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri2.jpg",
+                "Price": "1250",
+                "Detail": "En iyi sonuçlar için sağlam çelik uçlar\nSap malzemesi ahşap,\nBıçak:Özel çelik malzemeden üretilmiştir.\n11 Parça\n- 4 x Oyma Keski düz gravür 8 (6 mm)/gravür 8 (8 mm)/gravür 39 (6 mm)/gravür 11 (2 mm),\n1 x Oyma Bıçağı eğik uçlu,\n1 x Oyma Bıçağı Dar uçlu,\n1 x Oyma Bıçağı Kavisli,\n1 x Oyma Bıçağı Düz Uçlu ,\n1 x Bileme Taşı 80 x 30 mm K 180/400"
+            },
+            {
+                "Name": "Keter Technician Box 18.9\" Takım Çantası",
+                "BrandName": "Keter",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri3.jpg",
+                "Price": "349",
+                "Detail": "18.9''\nMetal kilit,\nPortatif organizerli,\nBölmeli,\nKapakta el aleti gözlü,\nElastik iç astarlı,\nRenk:Siyah-Kırmızı\nÖlçüler: 48 x 17,8 x 38 cm\nAksesuarlar fiyata dahil değildir."
+            },
+            {
+                "Name": "Pürmüz Profesyonel 1300C - 11087",
+                "BrandName": "Worldforce",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri4.jpg",
+                "Price": "179",
+                "Detail": "Sıcaklık Derecesi: 1300 C\nKaplama: Aluminyum Ve Plastik\nAyarlanabilir Alevli\nPiezo Ateşlemeli\nAnti Flare System\nÜrün Ölçüleri(EnxBoyxYükseklik):8x13,5x18,5cm"
+            },
+            {
+                "Name": "Lokma Takımı 26 Parça",
+                "BrandName": "Forsage",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri5.jpg",
+                "Price": "759",
+                "Detail": "Lokma Takımı\n26 Parça\nCr-V\n1/2'' - 6 Köşe\n8-32mm Lokma Aralığı\nMetal Kutu\nT-Kol Ve Uzatmalar"
+            },
+            {
+                "Name": "Kontrol Kalemi 6-24V",
+                "BrandName": "Forsage",
+                "Category": "EL ALETLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/el_aletleri6.jpg",
+                "Price": "33",
+                "Detail": "Kontrol Kalemi\nIşık Göstergeli Prinç Gövde\n6-24V\n850mm Kıskaçlı Kablo\nBlisterde"
+            }
+        ]
+    },
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner4.jpg",
+        "Name": "MAKİNE & UÇLARI",
+        "Products": [
+            {
+                "Name": "Alpha Tools 3 Parça Makine Seti",
+                "BrandName": "Alpha Tools",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine1.jpg",
+                "Price": "599",
+                "Detail": "Alpha Tools’un çok fonksiyonlu 3 aleti birarada..\nDelme,vidalama ve taşlama işlerinizi kısa zamanda,yüksek konfor ile tamamlayabilirsiniz.Kaliteli malzemesiyle ürünleri yıllarca kullanabilirsiniz.\nSb 450 L/R-S Darbeli Matkap:\nGüç:Max 450 W\nRölanti Devir:0-3000 Dev/Dk.\nGerilim:230 V-50 Hz\nAğırlık:1,6 Kg\nDelme Gücü:\nSes basınç seviyesi:85,0 dB(A) -Sapma K:3 dB\nSes güç seviyesi:96,0 dB(A) -Sapma K:3 dB\nBeton:13 mm\nÇelik:10 mm\nAhşap:25 mm\nCD 1081 Li-2 Akülü Vidalama:\nLed Işıklı,\nSağ sol dönüş\nTork ayarlı,\nVoltaj: DC 10,8 V\nDevir sayısı:0-520 dev/dak.\nMandren aralığı:10 mm\nŞarj süresi:3-5 saat\nTork ayarı:19+1\nBatarya tipi:10,8 V Lion 1,3 Ah pil\nSes basınç seviyesi:79,0 dB(A) -Sapma K:3 dB\nSes güç seviyesi:90,0 dB(A) -Sapma K:3 dB\nWs 115-600-S Avuç Taşlama:\nGüç:600 W max.\nGerilim:230 V-50 Hz\nRölanti Deviri:11000 Dev/Dk\nMax.Taş Çapı:115 mm\nBağlantı vida dişi:M14\nAğırlık:1,7 Kg\n17 Parça aksesuar seti dahildir."
+            },
+            {
+                "Name": "Einhell TE-CD 18/2 li Kit 18V Akülü Vidalama",
+                "BrandName": "Einhell",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine2.jpg",
+                "Price": "899",
+                "Detail": "Einhell TE-CD 18/2 Li Kit Akülü Vidalama Power X-Change ailesinin çift akülü güçlü, sağlam ve ergonomik bir ürünüdür. 2 kademe hız seçimi ile vidalamanın yanı sıra delme işlemlerini de kolayca yapılabilirsiniz. Sahip olduğu metal dişli sistemi ile 44 Nm'luk yüksek tork gücüne ulaşabilir ve en zor işlerin bile üstesinden gelebilirsiniz.\nBeraberinde gelen hızlı şarj cihazı ve 2 adet aküsünü Power X-Change ailesinin diğer makine ve bahçe grubu ürünleri ile birlikte kullanabilir, ihtiyaç duyduğunuz sonraki aletleri ailenin solo ürünlerden (akü ve şarj cihazı olmaksızın) seçebilir, dilerseniz daha yüksek kapasiteli ilave akü ve şarj cihazlarını ayrı ayrı da satın alarak kullanabilirsiniz.\nTeknik Özellikler:\nPower X-Change® akü sistemi üyesi\nLi-ion uzun ömürlü akü\n2 vites seçeneği (delme ve vidalama)\nYüksek tork için güçlü motor ve metal dişli sistemi\nOtomatik mil kilidi\nHızlı duruş\nHassas elektronik hız ayarı\nErgonomik soft yüzey kaplaması\nLed aydınlatma\nPratik bel askı klipsi\n2 adet 1.5 Ah akü ve hızlı şarj cihazı dahildir.\nAkü:18 V | 1500 mah | Li-ion\nŞarj süresi:30 dk\nVites Sayısı:2\nBoşta devir hızı(Vites 1) 0-350 d/dk\nBoşta devir hızı(Vites 2) 0-1250 d/dk\nMax. Tork Gücü:44 Nm\nTork ayarı:21\nMandren:10 mm"
+            },
+            {
+                "Name": "Black&Decker BEH710S 710W 13 Mm Darbeli Matkap",
+                "BrandName": "Black&Decker",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine3.jpg",
+                "Price": "515",
+                "Detail": "40 Parça Aksesuar Hediye!\nAnahtarsız mandren ile hızlı ve kolay uç değiştirme,\n710 W güçlü motoru ile yüksek çalışma verimliliği,\nKesintisiz çalışma düğmesi ile tek elle kolay kullanım,\n40 parça aksesuar seti\nKarıştırıcı aparatı ile çok yönlü kullanım,\nKauçuk kaplı tutma kolu ve ergonomik dizayn ile yüksek kontrol,\nElektronik hız ayarı ile ileri/geri dönüş özelliği.\nTeknik Özellikler:\nGüç:710W\nDarbe Oranı:0-47.600 dar/dak\nYüksüz Hızı:0-2.800 dev/dak\nMandren Kapasitesi:13mm\nAğırlık 3.2 Kg\nMax. Delme Kapasitesi:\nAhşap:25 mm\nMetal:13 mm\nBeton:13 mm"
+            },
+            {
+                "Name": "Bosch GSB550 550W Profesyonel Darbeli Matkap",
+                "BrandName": "Bosch",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine4.jpg",
+                "Price": "449",
+                "Detail": "Türü:Darbeli\nGüç (W):550 W\nMandren Ölçüsü (mm):13 mm\nMetal Demle Kapasitesi (mm):10 mm\nMandren Tipi:Anahtarlı\nAhşap Delme Kapasitesi (mm):25 mm\nBeton Delme Kapasitesi (mm):13 mm"
+            },
+            {
+                "Name": "Pressito Solo Hibrit Kompresör",
+                "BrandName": "Einhell",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine5.jpg",
+                "Price": "775",
+                "Detail": "Power X-Change akü sistemi üyesi\nHibrid fonksiyonu: Akü ile ya da elektrikle kullanılabilir\nAraç, bisiklet vb. için yüksek hava basıncı pompası\nŞişme yataklar için düşük hava basıncı pompası\nHava yataklarının söndürmek için düşük basınç hava emiş aygıtı\nManuel dijital basınç göstergesi ile kolay kullanım\n11 bar'a kadar ayarlanabilir basınç ayarı\nAyarlanan basınca yaklaştığında otomatik kapanma fonksiyonu\n3 parça şişirme adaptörü için saklama bölmesi\nAkü ve şarj cihazı dahil değildir (ayrı olarak satın alınabilir) • Mains supply 220-240 V | 50 Hz\nEmiş kapasitesi 21 L/min\n0 barda çıkış gücü 16 L/min\n4 barda çıkış gücü 10 L/min\n7 barda çıkış gücü 8 L/min\nMaksimum çalışma basıncı 11 bar\nHortum boyu 710 mm"
+            },
+            {
+                "Name": "Einhell TC-RO1155E Dik Freze",
+                "BrandName": "Einhell",
+                "Category": "MAKİNE & UÇLARI",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/makine6.jpg",
+                "Price": "599",
+                "Detail": "Elektronik hız ayarı\n3 kademeli derinlik ayar skalası\nDöner başlıklı hassas derinlik ayarı\nØ6 ve Ø8 mm uç girişi\nParalellik mesnedi, rota, kopya kolu\nKolay uç değişimi için mil kilidi\nÇalışma yüzeyi için plastik koruma altlık\nTeknik Özellikler:\nGiriş voltajı: 230 V | 50 Hz\nGüç: 1100 W\nBoşta devir hızı: 11000-30000 d/dk\nStrok yüksekliği: 55 mm\nUç Girişi: 6 ve 8 mm\nMax. Oluk çapı: 30 mm"
+            }
+        ]
+    },
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner5.jpg",
+        "Name": "AYDINLATMA & ELEKTRO",
+        "Products": [
+            {
+                "Name": "Poza 8'Li 8XE27 Sıralı Eskitme Avize",
+                "BrandName": "Lucea",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma1.jpg",
+                "Price": "995",
+                "Detail": "8 li avize \nE27 duy \nÜrün ölçüleri: 58x58x72 cm"
+            },
+            {
+                "Name": "Lucea Belly Küçük Boy Krom Ledli Tekli Sarkıt",
+                "BrandName": "Lucea",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma2.jpg",
+                "Price": "595",
+                "Detail": "Küçük boy ledli Sarkıt \nÜrün ölçüleri: 23x37x90 cm \nKrom kaplama \nEnerji Tasarruflu \nLed / 1 x 38w \n3000 Kelvin"
+            },
+            {
+                "Name": "Eglo Barnham Led Spot Serisi 4'lü Spot",
+                "BrandName": "Eglo",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma3.jpg",
+                "Price": "1045",
+                "Detail": "Ezber bozan tasarımı olan bakır renkli bu şık 4'lü spot döndürülebilir başlıklarıyla kullanıldığı alanın istediğiniz bölümünün ışıkla vurgulanmasını sağlar, görsel bir ayrım oluşturur. LED ampulü ile doğal, tasarruflu ve çevre dostu aydınlatma sağlar. Oluşturduğunuz iç dekorasyonunuzu tamamlar. Çarpıcı ölçüde dikkat çekici efektlerle ortama daha modern bir görünüm verir.\nRenk: Bakır - Siyah\nÇalışma Gücü: 4 x 3,3 W\nDuy Sayısı: 4"
+            },
+            {
+                "Name": "Dubrovnik 1x100W Aplik Yeşil",
+                "BrandName": "Philips",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma4.jpg",
+                "Price": "199",
+                "Detail": "Güç: 1x100 W\nGerilim : 220-240V\nÜrün Ölçüleri: 243 X 173 X 395 mm\n1 adet E27 ampul ile kullanılır.(Ampul dahil değildir.)\nGövde Rengi : Yeşil"
+            },
+            {
+                "Name": "Helsinki Serisi Babaüstü",
+                "BrandName": "Eglo",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma5.jpg",
+                "Price": "167",
+                "Detail": "E27 Duy\nMax. Watt: 1x15W\nAna materyal: Paslanmaz çelik\nCam/şapka materyali: Plastik\nCam/şapka rengi: Beyaz\nIP44\nYükseklik: 450 mm\nÇap: 75 mm\nTaban çap: 115 mm\nAğırlık: 0,913 kg"
+            },
+            {
+                "Name": "Rı-Tech 6'lı Şok Korumalı Usb Anahtarlı Grup Priz",
+                "BrandName": "Mutlusan",
+                "Category": "AYDINLATMA & ELEKTRO",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/aydinlatma6.jpg",
+                "Price": "100",
+                "Detail": "230 V\n16 A\n3500 W\n50 -60 Hz\nOutput of 5V 2,4 A. USB"
+            }
+        ]
+    },
+    {
+        "BannerUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/banner6.jpg",
+        "Name": "DEKORASYON & EV GEREÇLERİ",
+        "Products": [
+            {
+                "Name": "Deluxe Alüminyum Çamaşır Kurutmalık",
+                "BrandName": "Mihrece",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon1.jpg",
+                "Price": "109",
+                "Detail": "20 metre çamaşır asma kapasitesi\nÜrün ölçüleri: 105x55x55\nYüzde yüz alüminyum gövde\nÖzel tasarlanmış çorap asma aparatı\nDış mekanlar için özel tasarım\n5 yıl garanti"
+            },
+            {
+                "Name": "Emboss Hasır Bej Duvar Kağıdı",
+                "BrandName": "Halley",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon2.jpg",
+                "Price": "43",
+                "Detail": "Nefes alabilir özelliğe sahiptir, koku yapmaz\nHafif nemli süngerle temizliği yapılmalıdır\nHijyeniktir\nİnsan sağlığı açısından herhangi bir sorun teşkil etmez sağlıklı ve doğaldır\nKağıt yapısı kabartmalı olduğu için duvarın tam şeklini alır\nBozuk, eğik, tırtıklı duvarlarda rahatlıkla kullanılabilir\nÜst üste 0,2 cm bindirilerek uygulanır\nKağıt ölçüleri 52x1000 cm (5,20m²)’dir\nUygulama Öncesi:\nÇoklu alımlarda ürünlerin seri ve baskı numaraları kontrol edilmelidir\nUygulanacak duvarlar temiz, kuru, sert ve düz olmalıdır\nSeramik, mermer, saten ve yağlı boyalı yüzeylerde mutlaka dönüşüm astarı talimatlarına göre uygulanmalıdır\nHesaplama:\nUygulanacak olan duvarların yüksekliğine ve desen takibine göre farklılık göstermektedir\nYüksekliği 3 metreyi aşmayan duvarlarda 1 rulo kağıttan desen takibiyle birlikte genellikle yan yana 3 boy olarak hesaplanmalıdır Bu da her 1,5 metre için 1 rulo gereksinimi sunmaktadır"
+            },
+            {
+                "Name": "Rustik Kutu No:1",
+                "BrandName": "Evkur",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon3.jpg",
+                "Price": "41",
+                "Detail": "Ham MDF kutu\nÜrün ölçüleri: 22,5x10,5x16 cm\n1 Kapaklı\n8 mm MDF kullanılmıştır.\nAkrilik boyalarla boyanabilir."
+            },
+            {
+                "Name": "Pvc Jaluzi 25mm 80x160cm Antrasit",
+                "BrandName": "Linadora",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon4.jpg",
+                "Price": "155",
+                "Detail": "25 mm. PVC Jaluzi\nTüm montaj aksamları paket içerisindedir.\nÜrün ölçüleri: 80x160 cm."
+            },
+            {
+                "Name": "Güneş Ayna No:2",
+                "BrandName": "Evkur",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon5.jpg",
+                "Price": "24",
+                "Detail": "Ham MDF çerçeve\nÜrün ölçüleri: 35x35x0,8 cm\n8 mm MDF kullanılmıştır.\nAkrilik boyalarla boyanabilir."
+            },
+            {
+                "Name": "Happy Stripe Lacivert Kırlent",
+                "BrandName": "Elegance",
+                "Category": "DEKORASYON & EV GEREÇLERİ",
+                "ImageUrl": "https://raw.githubusercontent.com/BarbarosBerk34/BauhausWebService/main/dekorasyon5.jpg",
+                "Price": "35",
+                "Detail": "Ürün ölçüleri: 45x45cm\nFermuarlı ve fitillidir, yıkanabilir.\nİç malzeme silikon elyaftır, yapışmaz.\n30 derecede yıkanabilir. Ağartıcı kullanılmaz."
+            }
+        ]
+    }
+]
